@@ -20,6 +20,7 @@
 		AA7676B924244DC1007A1223 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA7676B824244DC1007A1223 /* LoginViewController.swift */; };
 		AA7676BB24244DD1007A1223 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA7676BA24244DD1007A1223 /* FeedViewController.swift */; };
 		AA7676BF24245B19007A1223 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA7676BE24245B19007A1223 /* CameraViewController.swift */; };
+		AA7676C1242463C5007A1223 /* PostTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA7676C0242463C5007A1223 /* PostTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,6 +65,7 @@
 		AA7676B824244DC1007A1223 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		AA7676BA24244DD1007A1223 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		AA7676BE24245B19007A1223 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
+		AA7676C0242463C5007A1223 /* PostTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostTableViewCell.swift; sourceTree = "<group>"; };
 		B2DB086A58D7E089E0C5CBFC /* Pods-Parstagram-ParstagramUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Parstagram-ParstagramUITests.release.xcconfig"; path = "Target Support Files/Pods-Parstagram-ParstagramUITests/Pods-Parstagram-ParstagramUITests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -124,6 +126,7 @@
 				AA76768A242444BA007A1223 /* SceneDelegate.swift */,
 				AA7676BE24245B19007A1223 /* CameraViewController.swift */,
 				AA76768E242444BA007A1223 /* Main.storyboard */,
+				AA7676C0242463C5007A1223 /* PostTableViewCell.swift */,
 				AA7676BA24244DD1007A1223 /* FeedViewController.swift */,
 				AA7676B824244DC1007A1223 /* LoginViewController.swift */,
 				AA767691242444BB007A1223 /* Assets.xcassets */,
@@ -418,6 +421,7 @@
 				AA767689242444BA007A1223 /* AppDelegate.swift in Sources */,
 				AA7676BB24244DD1007A1223 /* FeedViewController.swift in Sources */,
 				AA76768B242444BA007A1223 /* SceneDelegate.swift in Sources */,
+				AA7676C1242463C5007A1223 /* PostTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
